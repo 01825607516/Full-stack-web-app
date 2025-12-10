@@ -1,0 +1,5 @@
+{
+  "name": "MoodTracker",
+  "description": "A comprehensive mental wellness application to track moods, journal thoughts, connect with a supportive community, and find resources for emotional well-being.",
+  "requestFramePermissions": []
+}
