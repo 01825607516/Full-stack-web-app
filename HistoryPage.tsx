@@ -6,7 +6,7 @@ import {
   MOOD_COLORS,
   MOOD_HEX_COLORS,
 } from './types';
-import { apiGetUserMoods } from '../services/api';
+import { apiGetUserMoods } from './services/api';
 
 // Recharts
 import {
