@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { StarIcon } from '../components/icons';
+import { StarIcon } from '../icons';
 
 interface StarRatingProps {
   rating: number;
