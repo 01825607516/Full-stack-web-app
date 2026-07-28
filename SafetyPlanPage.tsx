@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { SafetyPlan } from '../types';
-import { ShieldIcon } from '../components/icons';
+import { ShieldIcon } from '../icons';
 
 type PlanSection = keyof SafetyPlan;
 
