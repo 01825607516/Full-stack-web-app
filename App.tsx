@@ -12,8 +12,8 @@ import SettingsPage from './SettingsPage';
 import RateUsPage from './RateUsPage';
 import EmotionalAlertModal from './EmotionalAlertModal';
 import CrisisModal from './CrisisModal';
-import LoginPage from './pages/LoginPage';
-import ApiKeySetupPage from './pages/ApiKeySetupPage';
+import LoginPage from '.LoginPage';
+import ApiKeySetupPage from '.ApiKeySetupPage';
 import {
   apiLogin,
   apiRegister,
