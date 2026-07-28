@@ -12,7 +12,7 @@ import SettingsPage from './SettingsPage';
 import RateUsPage from './RateUsPage';
 import EmotionalAlertModal from './EmotionalAlertModal';
 import CrisisModal from './CrisisModal';
-import LoginPage from '.LoginPage';
+import LoginPage from './LoginPage';
 import ApiKeySetupPage from '.ApiKeySetupPage';
 import {
   apiLogin,
