@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { NavItem } from '../types';
+import { NavItem } from './types';
 import { SupportIcon, CommunityIcon, GratitudeIcon } from './icons';
 
 interface EmotionalAlertModalProps {
