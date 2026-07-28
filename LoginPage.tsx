@@ -1,5 +1,5 @@
  import React, { useState } from 'react';
-import { apiLogin, apiRegister } from "../services/api";
+import { apiLogin, apiRegister } from "./services/api";
 
 interface LoginPageProps {
   onLogin: (token: string, user: any) => void;
