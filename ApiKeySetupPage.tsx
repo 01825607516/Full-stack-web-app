@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ShieldIcon } from '../components/icons';
+import { ShieldIcon } from '../icons';
 
 interface ApiKeySetupPageProps {
   onApiKeySet: (key: string) => void;
