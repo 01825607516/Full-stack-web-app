@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavItem } from '../types';
+import { NavItem } from './types';
 import { DiaryIcon, HistoryIcon, GratitudeIcon, CommunityIcon, ShieldIcon, SupportIcon, ResourcesIcon, SettingsIcon, SunIcon, MoonIcon, LogoutIcon, StarIcon, WarningIcon } from './icons';
 
 interface HeaderProps {
