@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { CommunityPost, Comment } from '../types';
-import { filterContent } from '../services/geminiService';
+import { filterContent } from './services/geminiService';
 
 const EMOJI_REACTIONS = ['❤️', '🤗', '🙏', '💡', '💪'];
 
