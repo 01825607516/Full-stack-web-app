@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Counsellor } from '../types';
-import RequestSessionModal from '../RequestSessionModal';
+import { Counsellor } from './types';
+import RequestSessionModal from './RequestSessionModal';
 
 const mockCounsellors: Counsellor[] = [
   { id: '1', name: 'Dr. Anya Sharma', specialization: 'Cognitive Behavioral Therapy', contact: 'contact@anyasharma.dev', availability: 'Mon-Fri, 9am-5pm', status: 'online' },
