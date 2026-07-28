@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavItem } from '../types';
+import { NavItem } from './types';
 import { WarningIcon } from './icons';
 
 interface CrisisModalProps {
