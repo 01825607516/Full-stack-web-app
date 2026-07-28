@@ -1,5 +1,5 @@
   import React, { useState, useEffect } from 'react';
-import { Mood, MOODS, MOOD_COLORS, MOOD_EMOJI, MoodEntry } from '../types';
+import { Mood, MOODS, MOOD_COLORS, MOOD_EMOJI, MoodEntry } from './types';
 import { getEmpatheticMessage, analyzeJournalForCrisis } from './services/geminiService';
 import { apiCreateMood } from "../services/api";
 
