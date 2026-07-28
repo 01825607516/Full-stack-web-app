@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { SunIcon, MoonIcon } from '../components/icons';
+import { SunIcon, MoonIcon } from '../icons';
 
 interface SettingsPageProps {
     theme: string;
