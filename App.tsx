@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { NavItem, MoodEntry } from './types';
-import Header from './components/Header';
+import Header from './Header';
 import DiaryPage from './pages/DiaryPage';
 import HistoryPage from './pages/HistoryPage';
 import CommunityPage from './pages/CommunityPage';
@@ -10,8 +10,8 @@ import SafetyPlanPage from './pages/SafetyPlanPage';
 import ResourcesPage from './pages/ResourcesPage';
 import SettingsPage from './pages/SettingsPage';
 import RateUsPage from './pages/RateUsPage';
-import EmotionalAlertModal from './components/EmotionalAlertModal';
-import CrisisModal from './components/CrisisModal';
+import EmotionalAlertModal from './EmotionalAlertModal';
+import CrisisModal from './CrisisModal';
 import LoginPage from './pages/LoginPage';
 import ApiKeySetupPage from './pages/ApiKeySetupPage';
 import {
